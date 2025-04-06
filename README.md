@@ -237,3 +237,10 @@ ROLL NO – 2301AI19
 as part of a Reinforcement Learning project to explore different RL algorithms in classic environments.
 
 ---
+
+License
+
+
+--------
+
+MIT License. See LICENSE file for details
