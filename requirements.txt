@@ -1,0 +1,9 @@
+gymnasium
+
+matplotlib
+
+torch
+
+pillow
+
+numpy
